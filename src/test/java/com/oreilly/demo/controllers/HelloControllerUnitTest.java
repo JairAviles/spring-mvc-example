@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.springframework.ui.Model;
 import org.springframework.validation.support.BindingAwareModelMap;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class HelloControllerUnitTest {
 
